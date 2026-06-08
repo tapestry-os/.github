@@ -18,7 +18,7 @@ specified with functional stubs. Apache 2.0.
 
 ## Get started in 5 minutes
 
-https://github.com/tapestry-os/tapestry?tab=contributing-ov-file
+[Go to Quickstart](https://github.com/tapestry-os/tapestry/#quickstart--l5-swarm-sim-in-under-5-minutes)
 
 ## Where to contribute
 
